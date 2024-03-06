@@ -1,5 +1,9 @@
+:root{
+    --white: #f7f7f7;
+}
+
 body{
-    background-color: whitesmoke;
+    background-color:var(--white);
 }
 
 img{
