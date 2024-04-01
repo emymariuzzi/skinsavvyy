@@ -26,3 +26,7 @@ section{
     margin: 10px;
     padding: 95px;
 }
+.equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
