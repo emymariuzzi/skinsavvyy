@@ -23,4 +23,6 @@ section{
     /* border-width: 3px; */
     /* border-color: black; */
     border: dashed 3px black;
+    margin: 10px;
+    padding: 95px;
 }
