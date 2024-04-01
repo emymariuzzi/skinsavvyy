@@ -14,3 +14,13 @@ header{
     align-content: center;
     justify-content: space-around;
 }
+
+section{
+    display: flex;
+    background-color: var(--white);
+    border-radius: 30px;
+    /* border-style: dashed; */
+    /* border-width: 3px; */
+    /* border-color: black; */
+    border: dashed 3px black;
+}
