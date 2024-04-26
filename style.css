@@ -51,4 +51,7 @@ a{
     .pontos-positivos{
         margin: 0 60px 0 50px;
 }
-    }
+    
+.espacamento-paragrafo{
+    padding: 1px;
+}
